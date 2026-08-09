@@ -50,11 +50,11 @@ The four KPIs were designed to provide management with a quick executive overvie
 
 ## 📊 Dashboard Preview
 
-![Airline Performance Dashboard](Dahboard_home.png)
+![Airline Performance Dashboard](Dashboard_home.png)
 
 ## 📊 Map Visual
 
-![Map Visual](Map_Visula.png)
+![Map Visual](Map_Visual.png)
 
 ### 1. Monthly Revenue Trend
 
