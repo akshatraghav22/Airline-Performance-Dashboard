@@ -50,7 +50,7 @@ The four KPIs were designed to provide management with a quick executive overvie
 
 ## 📊 Dashboard Preview
 
-![Airline Performance Dashboard](Dashboard_home.png)
+![Airline Performance Dashboard](Dahboard_home.png)
 
 ## 📊 Map Visual
 
