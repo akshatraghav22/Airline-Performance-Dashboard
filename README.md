@@ -6,8 +6,6 @@ The **Airline Performance Dashboard** is an interactive Power BI dashboard built
 
 The objective of this project is to help airline management quickly understand **revenue performance, flight delays, passenger load, and route profitability** and use these insights to support better operational and business decisions.
 
-The dashboard was developed as part of the **Data Analytics with GenAI – Employability Test 2** assignment for WhiteCloud Airlines. The assignment required a single-page executive dashboard with four key KPIs and supporting visualizations.
-
 ---
 
 ## 🎯 Business Objectives
@@ -33,23 +31,6 @@ The dashboard focuses on answering key business questions:
 * **Data Visualization** – Interactive charts and KPI cards
 * **CSV Dataset** – Airline operational data
 
-### Dataset
-
-The dataset contains flight-level operational records including:
-
-| Column     | Description                |
-| ---------- | -------------------------- |
-| FlightID   | Unique flight number       |
-| Date       | Flight date                |
-| Route      | Origin–Destination route   |
-| Region     | Domestic / International   |
-| Passengers | Number of passengers       |
-| Revenue    | Total ticket sales         |
-| DelayMin   | Departure delay in minutes |
-| Profit     | Net profit from the flight |
-
-These fields were provided in the assignment dataset.
-
 ---
 
 # 📌 Dashboard KPIs
@@ -66,6 +47,14 @@ The four KPIs were designed to provide management with a quick executive overvie
 ---
 
 # 📈 Dashboard Visualizations
+
+## 📊 Dashboard Preview
+
+![Airline Performance Dashboard](Dashboard_home.png)
+
+## 📊 Map Visual
+
+![Map Visual](Map_Visula.png)
 
 ### 1. Monthly Revenue Trend
 
@@ -215,27 +204,6 @@ The dashboard can be used as an executive monitoring tool to track:
 **Revenue → Passenger Load → Delays → Route Profitability**
 
 Regular monitoring would allow management to identify performance changes early and take corrective action.
-
----
-
-# 📷 Dashboard Preview
-
-![Airline Performance Dashboard](dashboard.png)
-
-> **Note:** Replace `dashboard.png` with the actual screenshot filename after uploading your dashboard image to the GitHub repository.
-
----
-
-# 📂 Project Structure
-
-```text
-Airline-Performance-Dashboard/
-│
-├── 📊 Airline_Performance_Dashboard.pbix
-├── 📄 AirlinePerformance.csv
-├── 🖼️ dashboard.png
-└── 📖 README.md
-```
 
 ---
 
